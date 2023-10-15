@@ -1,0 +1,47 @@
+body{
+    background-color:antiquewhite;
+}
+hr{
+    
+         border-style:none;
+            border-top-style:dotted;
+            border-color:purple;
+            width: 30%;
+            border-width: 4px;
+}
+p{
+    text-align: center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    
+}
+
+h1,h2{
+    
+    color: rgb(34, 17, 222);
+}
+h1:hover,h2:hover{
+    color: red;}
+img:hover{
+    background-color: gold;
+}
+img{
+    background-color: gold;
+}
+.duck{
+    background-color:red ;
+   
+    border-radius: 30%;
+}
+.dice{
+    background-color: aqua;
+}
+div{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: #ADC4CE;
+    border-color: black;
+    border-width: 3px;
+    border-style: solid;
+    padding: 10px;
+}
